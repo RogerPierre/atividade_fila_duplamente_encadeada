@@ -1,7 +1,8 @@
 # 📚 Implementação de Lista Duplamente Encadeada em TypeScript
 
 ## 👥 Identificação dos membros
-- Roger Pierre Reis Silva  
+- Roger Pierre Reis Silva
+- Raira Reis Silva
 <!-- Se houver outro membro, adicione aqui -->
 
 ---
